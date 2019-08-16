@@ -108,7 +108,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: VictorNguyenCS@gmail.com
+      # url: VictorNguyenTrades@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -120,10 +120,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/VictorNguyenCS/"
+      url: "https://github.com/VictorNguyenTrades/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/VictorNguyenCS/"
+      url: "https://www.linkedin.com/in/VictorNguyenTrades/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/VictorNguyenCS/"
+      url: "https://github.com/VictorNguyenTrades/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
