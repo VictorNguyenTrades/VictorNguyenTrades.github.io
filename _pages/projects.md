@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Trading/
-title: "Project Posts by Tag"
+title: "Trading Posts by Tag"
 author_profile: true
 header: 
     image: "/images/skyline_minneapolis.jpg"

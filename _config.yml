@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Victor Nguyen"
 title_separator          : "-"
 name                     : "Victor Nguyen"
-description              : "Project Portfolio."
+description              : "Trading Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Victor Nguyen"
   avatar           : "/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Project Portfolio."
+  bio              : "Trading Portfolio."
   location         : "Minneapolis, MN"
   email            :
   links:
