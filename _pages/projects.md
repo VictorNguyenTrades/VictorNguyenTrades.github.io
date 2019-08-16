@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /Trading/
 title: "Project Posts by Tag"
 author_profile: true
 header: 
